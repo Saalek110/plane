@@ -10,7 +10,7 @@ include"my_css.php";
 </style>
 </head>
 <body onload="startGame()">
-<img id="img2" src="images/war_plane.png" alt="plane" width="30" height="9">
+<img id="img2" src="war_plane.png" alt="plane" width="30" height="9">
  <script type='text/javascript'>
 var hero;
 var myObstacles = [];
